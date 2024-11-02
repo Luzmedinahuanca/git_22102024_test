@@ -7,6 +7,7 @@ Pasos a seguir
 3. Clonar el repositorio en el directorio que el usuario desea.
 
     git clone https:nombrerepositorio.git
+    
 4. Ubicarse dentro del directorio con el nombre del repositorio.
 5. Desarrollar el proyecto o generar los archivos.
 6. Dentro del directorio con el nombre del repositorio, utilizar los siguientes comandos:
