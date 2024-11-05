@@ -27,3 +27,5 @@ e. git push
 8. Crear un archivo llamado README.md
 
 9. Editar el archivo respetando la sintaxis MarkDown y repetir el paso previo 6. para actualizar.
+
+   REVISAR ESTOS CAMBIOS DE ULTIMO MOMENTO 04.11.2024 19:42
